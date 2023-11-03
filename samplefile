@@ -4,3 +4,12 @@ jay sri ram
 har har mahadev
  i am suceefully completed git command use
 write some thing in central repo to check
+//print ur name
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+clrscr();
+printf("rajkumar");
+getch();
+}
